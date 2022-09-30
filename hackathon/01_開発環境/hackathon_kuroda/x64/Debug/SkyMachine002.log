@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (SkyMachine002.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  player.cpp
+  SkyMachine002.vcxproj -> C:\Users\student\Desktop\Gitフォルダ\Hackathon_ikura\hackathon\01_開発環境\hackathon_kuroda\x64\Debug\hackathon_kuroda.exe
+  SkyMachine002.vcxproj -> C:\Users\student\Desktop\Gitフォルダ\Hackathon_ikura\hackathon\01_開発環境\hackathon_kuroda\x64\Debug\hackathon_kuroda.pdb (Full PDB)
